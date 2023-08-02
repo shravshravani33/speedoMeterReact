@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.main-container {
+  font-family: Roboto;
+  background-color: #07080c;
+  height: 100vh;
+  width: 100vw;
+  color: #ffffff;
+  text-align: center;
+}
+.btns-decor {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.ace {
+  background-color: #0b69ff;
+  border-width: 0;
+  border-radius: 10px;
+  color: #ffffff;
+  height: 40px;
+  width: 100px;
+  margin: 10px;
+  cursor: pointer;
+}
+.break {
+  background-color: transparent;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: #ffffff;
+  height: 40px;
+  width: 100px;
+  color: #94a3b8;
+  margin: 10px;
+  cursor: pointer;
+}
+.img-decor {
+  height: 50%;
+  width: 55%;
+}
+.heading {
+  font-style: italic;
+  font-size: 50px;
+  font-weight: 500;
+  padding: 20px;
+}
+.mph {
+  font-size: 30px;
+  font-weight: 400;
+}
+.speed-limit {
+  color: #cbd5e1;
+}
